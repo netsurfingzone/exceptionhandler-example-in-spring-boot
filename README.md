@@ -1,4 +1,4 @@
 # exceptionhandler-example-in-spring-boot
 @ExceptionHandler Example in Spring Boot
 
-https://www.netsurfingzone.com/spring-boot/exceptionhandler-example-in-spring-boot/
+https://www.javatute.com/spring-boot/exceptionhandler-example-in-spring-boot/
